@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: TodoYML
+
+server:
+   port: 9000
